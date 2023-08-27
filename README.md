@@ -34,6 +34,10 @@
 </div>
 <br>
 
+<!-- LeetCode stats -->
+<h3 align="center">📊 Coding Stats 📈</h3>
+<p align="center"><img src="https://leetcard.jacoblin.cool/arghadeeps07?ext=heatmap&theme=dark"></p>
+
 <!-- Skills -->
 <h1 align=center>
 
