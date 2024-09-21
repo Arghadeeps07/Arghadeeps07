@@ -44,7 +44,7 @@
 <!-- Skills -->
 <h1 align=center>
 
-:books: Skills :desktop_computer:
+📊 Coding Stats 📈
 </h1>
 
 <h1>Platform:&nbsp;&nbsp; <!-- Platform -->
