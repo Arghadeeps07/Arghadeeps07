@@ -8,9 +8,10 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-        <a href="https://linkedin.com/in/Arghadeeps07"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+        <a href="https://linkedin.com/in/Arghadeeps07"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/arghadeeps07"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/100088484267196"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://x.com/amiarghadeep?t=ndJlVZWbsTCEtek0ZOe1EQ&s=09"><img height="34" src="images/socials/twitter.svg" alt="Facebook"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
@@ -56,15 +57,36 @@
     <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
+    <img src="images/languages/java.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/js.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
     <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/typescript.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Frontend:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="images/frontend/react.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
     <img src="images/frontend/tailwind-css.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/bootstrap.svg" height="34" alt="Bootstrap" align=right>&nbsp;&nbsp;
     <img src="images/frontend/js.svg" height="34" alt="JavaScript" align=right>&nbsp;&nbsp;
     <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+</h1>
+<h1>Database:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="images/database/mongo-db.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    <img src="images/database/MySQL.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    <img src="images/database/oracle.png" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    
+</h1>
+<h1>BaaS:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="images/database/appwrite.jpeg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    
+    
+</h1>
+<h1>Backend:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="images/backend/express-js.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    <img src="images/backend/node-js.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
+    
+    
 </h1>
 
 <h1>DevOps:&nbsp;&nbsp; <!-- DevOps -->
@@ -74,4 +96,5 @@
 
 <h1>IoT:&nbsp;&nbsp; <!-- IoT -->
     <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
+    <img src="images/iot/raspberry-pi.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
