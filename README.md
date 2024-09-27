@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-        <a href="https://linkedin.com/in/Arghadeeps07"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+        <a href="www.linkedin.com/in/arghadeep-sarkar-166030330"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/arghadeeps07"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/100088484267196"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
     <a href="https://x.com/amiarghadeep?t=ndJlVZWbsTCEtek0ZOe1EQ&s=09"><img height="34" src="images/socials/twitter.svg" alt="Facebook"></a>&nbsp;&nbsp;
